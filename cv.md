@@ -42,6 +42,11 @@ function sumInput() {
 alert( sumInput() );
 ```
 
+**Education:**
+I have read different articles about JS and basic data structures. Also I have completed online courses ”CS50”, ” HTML Academy ” and can use the Codewars platform.
+Recently I read online manual [“The Modern JavaScript Tutorial”](https://learn.javascript.ru/).
+
+
 
 
 
