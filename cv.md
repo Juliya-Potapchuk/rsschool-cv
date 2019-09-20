@@ -46,6 +46,8 @@ alert( sumInput() );
 I have read different articles about JS and basic data structures. Also I have completed online courses ”CS50”, ” HTML Academy ” and can use the Codewars platform.
 Recently I read online manual [“The Modern JavaScript Tutorial”](https://learn.javascript.ru/).
 
+**English:**
+I learned English at school and university. I took English lessons from tutor in this year.
 
 
 
