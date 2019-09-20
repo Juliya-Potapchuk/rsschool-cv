@@ -15,6 +15,36 @@ I can work in a team, go deep into details, find necessary information myself.
 **Skills:**
 At that moment, I know HTML, CSS and a little JS, but I always to be in progress.
 
+**Code example:**
+This is task wich I solved from [“The Modern JavaScript Tutorial”](https://learn.javascript.ru/).
+
+```
+function sumInput() {
+
+  let numbers = [];
+
+  while (true) {
+
+    let value = prompt("Enter the number", 0);
+
+    if (value === "" || value === null || !isFinite(value)) break;
+
+    numbers.push(+value);
+  }
+
+  let sum = 0;
+  for (let number of numbers) {
+    sum += number;
+  }
+  return sum;
+}
+
+alert( sumInput() );
+```
+
+
+
+
 
 
 
