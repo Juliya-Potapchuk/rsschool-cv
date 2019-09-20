@@ -12,6 +12,9 @@ My goals are to improve my skills in programming, to realize myself in different
 
 I can work in a team, go deep into details, find necessary information myself. 
 
+**Skills:**
+At that moment, I know HTML, CSS and a little JS, but I always to be in progress.
+
 
 
 
