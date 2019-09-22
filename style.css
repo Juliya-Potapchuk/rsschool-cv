@@ -36,3 +36,13 @@ figcaption {
     text-align: center;
     text-decoration: underline;
 }
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.slills-ul {
+    text-transform: uppercase;
+}
