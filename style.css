@@ -55,3 +55,24 @@ a {
     color: white;
     text-decoration: none;
 }
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 10px;
+    text-shadow:-2px -3px 4px #b3b3b3;
+}
+
+.right-container p {
+    font-size: 30px;
+    text-align: justify;
+    background: url("back4.jpg");
+    padding: 0px 10px 10px 15px;
+}
+
+.clearfix {
+    clear: both;
+}
+
