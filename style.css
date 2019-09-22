@@ -46,3 +46,12 @@ h2 {
 .slills-ul {
     text-transform: uppercase;
 }
+
+.cont-info-ul {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
