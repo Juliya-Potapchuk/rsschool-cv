@@ -1,27 +1,26 @@
 body {
-    font-family:font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size:20px;
     color:white;
-    margin: 10px;
+    padding: 10px;
     background: url("backgr.jpg") black;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main-content {
+    display: flex;
+    flex-direction: row-reverse;
     max-width: 1024px;
     margin: 0 auto;
 }
 
 .left-container {
-    float: left;
     width: 325px;
 }
 
 .right-container {
-    float: left;
     width: 697px;
-    line-height: 1;
     border-left: 2px solid white;
 }
 
@@ -47,8 +46,8 @@ h2 {
     text-transform: uppercase;
 }
 
-.cont-info-ul {
-    list-style-type: none;
+.style-lin-heig {
+    line-height: 1.5;
 }
 
 a {
@@ -70,9 +69,6 @@ h1 {
     text-align: justify;
     background: url("back4.jpg");
     padding: 0px 10px 10px 15px;
-}
-
-.clearfix {
-    clear: both;
+    line-height: 1;
 }
 
